@@ -3,9 +3,9 @@ import serial
 
 import numpy as np
 
-from . import AbstractBaseOutput
+# from . import AbstractBaseOutput
 
-class TASKA(AbstractBaseOutput):
+class TASKA():
     """ Python implementation of a TASKA prosthetic hand driver using bluetooth """
     NUM_MOTORS = 6
 
