@@ -18,3 +18,7 @@
 	 - The glide and sense catalyst software are different (don't use streaming that's not for us to use, it's for consumer use) This is why you could not see Glide on the Catalyst Software, they are separate. 
 
 
+### Link to the Glide set up is below
+https://github.com/kfangster/TASKA_fall/blob/main/progress/Glide_setup.pdf
+
+
