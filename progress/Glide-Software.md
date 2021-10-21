@@ -14,7 +14,7 @@
 - Some more details are as follows:
    - In the glide software everything about the wheel can be changed (drag the inner radius to make it so that the grip actuates faster or drag the outer radius to make it so that it reaches max grip speed)
 	 - As for OPEN and CLOSE grips on the library those aren't actually an open and close grip. Instead each "grasp" has a certain open and close. For example tripod, key grip and general grasp each have their own open/close grip. General grasp is the one that has the generic open and close.
-	 - Install glide the normal way, and ensure that the correct JRE is installed and drag and drop the glide software that allows one to change the device software in the control type (ALLOWS TO TEST FOR SENSE then come to the laptop and use the glide)
+	 - Install glide the normal way, and ensure that the correct JRE is installed and drag and drop the glide software (everything in the dist folder) that allows one to change the device software in the control type (ALLOWS TO TEST FOR SENSE then come to the laptop and use the glide)
 	 - The glide and sense catalyst software are different (don't use streaming that's not for us to use, it's for consumer use) This is why you could not see Glide on the Catalyst Software, they are separate. 
 
 
